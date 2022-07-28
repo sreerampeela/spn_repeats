@@ -1,0 +1,29 @@
+HMMER - Biological sequence analysis with hidden Markov models
+Copyright (C) 1992-1995 Sean R. Eddy
+
+This suite of programs is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License as
+published by the Free Software Foundation; either version 2 of the
+License, or (at your option) any later version.
+
+In other words, you are free to modify, copy, or redistribute this
+source code and its documentation in any way you like, but you must
+distribute all derivative versions as free software under the same
+terms that I've provide my code to you (i.e. the GNU General Public
+License). This precludes any use of the code in proprietary or
+commercial software unless your source code is made freely
+available. Incorporation into your software under different terms is
+possible only by prior formal negotation with me to obtain a non-GPLed
+version of this package.
+
+This software is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this HMMER release, in the file GNULICENSE; if not, write
+to the Free Software Foundation, Inc., 675 Mass. Ave, Cambridge, MA
+02139 USA.
+
+
